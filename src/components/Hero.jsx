@@ -1,7 +1,7 @@
 import React from 'react'
 import heroImg from '../assets/hero.png'   // adjust path based on your folder
 import Services from '../pages/Services'
-import About from '../pages/temp'
+import About from '../pages/About'
 import Contact from '../pages/Contact'
 
 const Hero = () => {
